@@ -1,0 +1,25 @@
+{
+  "name": "ca-time-manager-bh",
+  "version": "1.0.0",
+  "description": "Server to report time to Clarity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcorral/ca-time-manager-bh.git"
+  },
+  "keywords": [
+    "clarity",
+    "ca",
+    "ppt",
+    "time-tracker"
+  ],
+  "author": "Tomas Corral Casas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcorral/ca-time-manager-bh/issues"
+  },
+  "homepage": "https://github.com/tcorral/ca-time-manager-bh#readme"
+}
